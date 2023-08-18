@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1.1 (64-bit)
+# SW Build 2960000 on Wed Aug  5 22:57:20 MDT 2020
+# IP Build 2956692 on Thu Aug  6 01:41:30 MDT 2020
+# Start of session at: Sat Dec  5 20:23:38 2020
+# Process ID: 16336
+# Current directory: D:/Work/Monai/CPE223/final_project_new/almclk/almclk.runs/synth_1
+# Command line: vivado.exe -log Digital_Clock.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Digital_Clock.tcl
+# Log file: D:/Work/Monai/CPE223/final_project_new/almclk/almclk.runs/synth_1/Digital_Clock.vds
+# Journal file: D:/Work/Monai/CPE223/final_project_new/almclk/almclk.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Digital_Clock.tcl -notrace
